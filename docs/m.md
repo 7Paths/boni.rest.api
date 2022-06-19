@@ -17,3 +17,7 @@
     m shell MONGO_VERSION
 
 ```
+
+```console
+    m use 5.3.2 --dbpath ~/data/mongodb/5.3.2
+```
